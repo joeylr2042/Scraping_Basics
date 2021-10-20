@@ -1,2 +1,2 @@
 # Scraping Basics
-Demos of scraping data with different libararies
+Demos of data scraping with different libararies
