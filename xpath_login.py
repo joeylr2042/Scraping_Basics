@@ -3,8 +3,8 @@ from lxml import etree
 
 
 class LMonkey:
-    loginurl = "https://www.mini4k.com/user/login"
-    movieurl = "https://www.mini4k.com/user/9131"
+    loginurl = "https:url_of_the_login_page"
+    movieurl = "https:url_of_the_movie"
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36"
     }
